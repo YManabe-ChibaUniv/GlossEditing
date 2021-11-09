@@ -8,3 +8,5 @@ This application controls gloss perception by detecting gloss in an image and hi
 2. Edit all images in the img directory at once by running "./gestart".
    Use the option "-p" to edit the image with an arbitrary scale factor.
    The scale factor is specified as an arbitrary integer. A positive value emphasizes gloss, a negative value suppresses gloss.
+   Example: ./gestart -p 5
+3. The glossy edited image will be saved in the result directory.
