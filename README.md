@@ -1,7 +1,8 @@
 # GlossEditing
 
 # About
-This application controls gloss perception by detecting gloss in an image and highlighting or suppressing glossy areas.
+This application controls gloss perception by detecting gloss in an image and highlighting or suppressing glossy areas.<br>
+(https://www.ingentaconnect.com/content/ist/jist/2021/00000065/00000006/art00007)
 
 # How to use
 1. Put the image files in the img directory. (Note: Currently, only BMP format is supported.)
